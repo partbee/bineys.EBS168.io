@@ -5,7 +5,7 @@ html, body {
 }
 
 body {
-	background: #7F7F7F;
+	background: #69E322;
 	box-sizing: border-box;
 	font-family: Helvetica;
 	overflow: hidden;
@@ -188,5 +188,6 @@ body {
 		bottom: 45px;
 		right: 45px;
 	}
+
 
 }
